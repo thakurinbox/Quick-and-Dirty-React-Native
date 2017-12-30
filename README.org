@@ -1,0 +1,11 @@
+* Quick and Dirty React Native
+Lets read about React Native. You can read almost everything about React Native here. We will cover following:
+
+*** Intoduction on React Native
+**** What is React Native
+**** React vs React Native
+****
+*** How to do setup for React Native
+*** Eslint Setup
+
+***
