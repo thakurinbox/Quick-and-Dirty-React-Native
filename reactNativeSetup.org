@@ -1,0 +1,7 @@
+* React Native Setup
+React native takes some time and energy for its setup. If you face any technical issue while setting up, you can directly message me.
+
+Lets do a setup on following:
+
+*** [[file:setupAndroid.org][iOS Setup]]
+*** [[file:setupIos.org][Android Setup]]

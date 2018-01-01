@@ -4,8 +4,7 @@ Lets read about React Native. You can read almost everything about React Native 
 *** Intoduction on React Native
 **** What is React Native
 **** React vs React Native
-****
-*** How to do setup for React Native
+*** [[file:reactNativeSetup.org][How to do setup for React Native]]
+**** [[file:setupAndroid.org][Android Setup]]
+**** [[file:setupIos.org][iOS Setup]]
 *** Eslint Setup
-
-***
