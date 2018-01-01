@@ -3,5 +3,5 @@ React native takes some time and energy for its setup. If you face any technical
 
 Lets do a setup on following:
 
-*** [[file:setupAndroid.org][iOS Setup]]
-*** [[file:setupIos.org][Android Setup]]
+*** [[file:setupAndroid.org][Android Setup]]
+*** [[file:setupIos.org][iOS Setup]]
